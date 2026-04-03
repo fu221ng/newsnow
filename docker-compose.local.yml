@@ -15,3 +15,4 @@ services:
 volumes:
   newsnow_data:
     name: newsnow_data
+ 
